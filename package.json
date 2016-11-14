@@ -1,0 +1,26 @@
+{
+  "name": "minilogger",
+  "version": "1.0.0",
+  "description": "Class based wrapper around http://mixu.net/minilog/ ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riddla/minilogger.git"
+  },
+  "keywords": [
+    "es6",
+    "logger",
+    "minilog",
+    "wrapper",
+    "typescript"
+  ],
+  "author": "Volker Rose <volker.rose@gmail.com> (http://volker-rose.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riddla/minilogger/issues"
+  },
+  "homepage": "https://github.com/riddla/minilogger#readme"
+}
