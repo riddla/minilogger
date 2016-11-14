@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/riddla/minilogger/issues"
   },
-  "homepage": "https://github.com/riddla/minilogger#readme"
+  "homepage": "https://github.com/riddla/minilogger#readme",
+  "dependencies": {
+    "minilog": "^3.0.1"
+  }
 }
