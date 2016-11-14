@@ -1,0 +1,3 @@
+class Minilogger {}
+
+export { Minilogger };
