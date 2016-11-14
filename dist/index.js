@@ -1,3 +1,13 @@
-class Minilogger {}
+"use strict";
 
-export { Minilogger };
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+var Minilogger = function Minilogger() {
+  _classCallCheck(this, Minilogger);
+};
+
+exports.Minilogger = Minilogger;
